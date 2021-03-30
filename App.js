@@ -5,7 +5,10 @@ import { StyleSheet, Button, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Button title="NOTES FOR BOOKS"/>
+      <Button title="NOTES FOR BOOKS - BMG IV"/>
+      <Button title="ADD NOTE" onPress = {() => {
+        console.log('Added');
+      }} />
       <StatusBar style="auto" />
     </View>
   );
