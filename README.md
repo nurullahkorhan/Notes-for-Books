@@ -7,3 +7,4 @@ noktaları kaydetmekle birlikte bunlara her zaman ulaşıp bunları kullanabilec
 
 React Native giriş uygulaması.
 BMG IV Dersi Projesi.
+Proje master dalında
