@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { StyleSheet, Button, View } from 'react-native';
+import { StyleSheet, Button, View, TextInput } from 'react-native';
 
 export default function App() {
   return (
@@ -9,6 +9,7 @@ export default function App() {
       <Button title="ADD NOTE" onPress = {() => {
         console.log('Added');
       }} />
+      <TextInput >Learning</TextInput>
       <StatusBar style="auto" />
     </View>
   );
