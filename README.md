@@ -23,3 +23,7 @@ https://dribbble.com/shots/11414889-Notes-app-concept
 https://www.behance.net/gallery/53245385/Notes-app-design
 https://www.uplabs.com/posts/mobile-notes-app-ui-design-template-a6fc218c-d639-4366-b77f-d8ae7aa1f124
 https://www.sketchappsources.com/free-source/1363-notes-app-sketch-freebie-resource.html
+
+4.Hafta  
+Başka projeleri de inceleyerek aşağıdaki gibi bir arayüz tasarlamaya çalıştım programıma uygun olarak.  
+![alt text](https://user-images.githubusercontent.com/43369306/60768885-7b70d500-a0f3-11e9-9efc-f98ca7421bc1.jpg)
