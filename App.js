@@ -1,7 +1,49 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Button, View, TextInput } from 'react-native';
+/*
+import DrawerNavigation from './src/Components/DrawerNavigation';
+import HeaderNavigation from './src/Components/HeaderNavigation';
 
+import HomeScreen from './src/Screens/HomeScreen';
+import AddNoteScreen from './src/Screens/AddNote';
+import EditNoteScreen from './src/Screens/EditNote';
+
+ const AppNavigator = createStackNavigator({
+  Home: {
+    screen: HomeScreen,
+    navigationOptions: ({navigation}) => ({
+      header:(<HeaderNavigation navigation={navigation} screen={'Home'}/>)
+    }),
+  },
+  AddNote: {
+    screen: AddNoteScreen,
+    navigationOptions: ({navigation}) => ({
+      header:(<HeaderNavigation navigation={navigation} screen={'AddNote'}/>)
+    }),
+  },
+  EditNote: {
+    screen: EditNoteScreen,
+    navigationOptions: ({navigation}) => ({
+      header:(<HeaderNavigation navigation={navigation} screen={'EditNote'}/>)
+    }),
+  },
+});
+
+const MyDrawer = createDrawerNavigator(
+  {
+    Home: {
+      screen: AppNavigator,
+    }
+  },
+  {
+    contentComponent: DrawerNavigation,
+    drawerWidth:235
+  }
+);
+
+const AppContainer = createAppContainer(MyDrawer);
+ */
 export default function App() {
   return (
     <View style={styles.container}>
@@ -9,7 +51,7 @@ export default function App() {
       <Button title="ADD NOTE" onPress = {() => {
         console.log('Added');
       }} />
-      <TextInput >Learning</TextInput>
+      <TextInput >Input Text</TextInput>
       <StatusBar style="auto" />
     </View>
   );
