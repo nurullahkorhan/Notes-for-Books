@@ -26,4 +26,4 @@ https://www.sketchappsources.com/free-source/1363-notes-app-sketch-freebie-resou
 
 4.Hafta  
 Başka projeleri de inceleyerek aşağıdaki gibi bir arayüz tasarlamaya çalıştım programıma uygun olarak.  
-![alt text](https://user-images.githubusercontent.com/43369306/60768885-7b70d500-a0f3-11e9-9efc-f98ca7421bc1.jpg)
+![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/notes.JPG?raw=true)
