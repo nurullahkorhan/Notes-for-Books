@@ -29,4 +29,4 @@ Başka projeleri de inceleyerek aşağıdaki gibi bir arayüz tasarlamaya çalı
 ![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/notes.jpg?raw=true)  
 
 5.Hafta  
-Haftalık programıma da göre yapmak istediğim UI ile ilgili kodlamayı gerçekleştirdim.
+Haftalık programıma da göre yapmak istediğim UI ile ilgili bunun kodlamasını yaptım. Düzenlemek istediğim yerlerini de düzenleyip güncellememi yaptım.
