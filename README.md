@@ -30,3 +30,6 @@ Başka projeleri de inceleyerek aşağıdaki gibi bir arayüz tasarlamaya çalı
 
 5.Hafta  
 Haftalık programıma da göre yapmak istediğim UI ile ilgili bunun kodlamasını yaptım. Düzenlemek istediğim yerlerini de düzenleyip güncellememi yaptım.
+
+6.Hafta  
+Programıma göre kodlamaya(backend) devam ediyorum. Yaptığım değişiklikleri de commit yaptım.
