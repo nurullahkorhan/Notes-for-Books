@@ -1,5 +1,11 @@
 import { StatusBar } from "expo-status-bar";
-import React from "react";
+import React, { Component } from "react";
+import {
+  createStackNavigator,
+  createAppContainer,
+  createDrawerNavigator,
+} from "react-navigation";
+import { Provider } from "react-redux";
 import { StyleSheet, Button, View, TextInput } from "react-native";
 
 import DrawerNavigation from "./src/Components/DrawerNavigation";
@@ -8,6 +14,8 @@ import HeaderNavigation from "./src/Components/HeaderNavigation";
 import HomeScreen from "./src/Screens/HomeScreen";
 import AddNoteScreen from "./src/Screens/AddNote";
 import EditNoteScreen from "./src/Screens/EditNote";
+
+import store from "./src/Public/redux/store";
 
 const AppNavigator = createStackNavigator({
   Home: {
@@ -51,12 +59,3 @@ export default function App() {
     </Provider>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center",
-  },
-});
