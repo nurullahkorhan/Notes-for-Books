@@ -33,3 +33,6 @@ Haftalık programıma da göre yapmak istediğim UI ile ilgili bunun kodlamasın
 
 6.Hafta  
 Programıma göre kodlamaya(backend) devam ediyorum. Yaptığım değişiklikleri de commit yaptım.
+
+7.Hafta  
+Haftalık programıma uygun olarak kodlamaya devam ediyorum. Backend ile mobil arasında api yapımı aşaması.
