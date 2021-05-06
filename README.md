@@ -36,3 +36,6 @@ Programıma göre kodlamaya(backend) devam ediyorum. Yaptığım değişiklikler
 
 7.Hafta  
 Haftalık programıma uygun olarak kodlamaya devam ediyorum. Backend ile mobil arasında api yapımı aşaması.
+
+8.Hafta  
+Projenin son adımlarını tamamlıyorum. 
