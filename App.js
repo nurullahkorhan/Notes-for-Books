@@ -6,7 +6,6 @@ import {
   createDrawerNavigator,
 } from "react-navigation";
 import { Provider } from "react-redux";
-import { StyleSheet, Button, View, TextInput } from "react-native";
 
 import DrawerNavigation from "./src/Components/DrawerNavigation";
 import HeaderNavigation from "./src/Components/HeaderNavigation";
