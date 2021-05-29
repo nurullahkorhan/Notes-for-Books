@@ -41,7 +41,7 @@ Haftalık programıma uygun olarak kodlamaya devam ediyorum. Backend ile mobil a
 Projenin son adımlarını tamamlıyorum.
 
 9.Hafta  
-Son yüklememi yaptım.  
+Son(final) yüklememi yaptım.  
 Ekleme  
 ![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/add.JPG?raw=true)  
 Silme  
