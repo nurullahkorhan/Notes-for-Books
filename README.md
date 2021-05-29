@@ -42,12 +42,12 @@ Projenin son adımlarını tamamlıyorum.
 
 9.Hafta  
 Son yüklememi yaptım.  
-Ekleme
-![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/add.jpg?raw=true)  
-Silme
-![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/delete.jpg?raw=true)  
-Düzenleme
-![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/edit.jpg?raw=true)  
-Arama
-![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/search.jpg?raw=true)  
+Ekleme  
+![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/add.JPG?raw=true)  
+Silme  
+![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/delete.JPG?raw=true)  
+Düzenleme  
+![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/edit.JPG?raw=true)  
+Arama  
+![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/search.JPG?raw=true)  
 
