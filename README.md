@@ -38,4 +38,16 @@ Programıma göre kodlamaya(backend) devam ediyorum. Yaptığım değişiklikler
 Haftalık programıma uygun olarak kodlamaya devam ediyorum. Backend ile mobil arasında api yapımı aşaması.
 
 8.Hafta  
-Projenin son adımlarını tamamlıyorum. 
+Projenin son adımlarını tamamlıyorum.
+
+9.Hafta  
+Son yüklememi yaptım.  
+Ekleme
+![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/add.jpg?raw=true)  
+Silme
+![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/delete.jpg?raw=true)  
+Düzenleme
+![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/edit.jpg?raw=true)  
+Arama
+![alt text](https://github.com/nurullahkorhan/Notes-for-Books/blob/master/src/Assets/search.jpg?raw=true)  
+
