@@ -1,11 +1,9 @@
-import { combineReducers } from 'redux';
+import { combineReducers } from "redux";
 
-// import all reducers
-import notes from './notes';
+import notes from "./notes";
 
-// combine them
 const appReducer = combineReducers({
-    notes
-})
+  notes,
+});
 
 export default appReducer;

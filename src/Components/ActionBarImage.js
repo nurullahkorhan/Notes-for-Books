@@ -1,14 +1,13 @@
-import React, { Component } from 'react'; 
-import { StyleSheet, View, Text, Image } from 'react-native';
- 
+import React, { Component } from "react";
+import { View, Image } from "react-native";
+
 export default class ActionBarImage extends Component {
   render() {
     return (
-      <View style={{ flexDirection: 'row' }}>
+      <View style={{ flexDirection: "row" }}>
         <Image
           source={{
-            uri:
-              'IMAGE URL GELECEK',
+            uri: "IMAGE URL GELECEK",
           }}
           style={{
             width: 35,
@@ -20,4 +19,3 @@ export default class ActionBarImage extends Component {
     );
   }
 }
-
